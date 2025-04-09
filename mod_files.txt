@@ -1,0 +1,6 @@
+add +Sonic.ar.00
+add +Sonic.arl
+add mod.ini
+add Inspire/chara/SonicEVRoot.ar.00
+add Inspire/chara/SonicEVRoot.ar.01
+add Inspire/chara/SonicEVRoot.arl
