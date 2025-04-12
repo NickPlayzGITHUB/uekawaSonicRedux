@@ -1,6 +1,10 @@
 add +Sonic.ar.00
 add +Sonic.arl
+add +SuperSonic.ar.00
+add +SuperSonic.arl
 add mod.ini
 add Inspire/chara/SonicEVRoot.ar.00
 add Inspire/chara/SonicEVRoot.ar.01
 add Inspire/chara/SonicEVRoot.arl
+add Inspire/scene/+evrt_m8_11_3.ar.00
+add Inspire/scene/+evrt_m8_11_3.arl
