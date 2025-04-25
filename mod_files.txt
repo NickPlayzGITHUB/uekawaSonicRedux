@@ -1,3 +1,6 @@
+add +EvilSonic.ar.00
+add +EvilSonic.ar.01
+add +EvilSonic.arl
 add +Sonic.ar.00
 add +Sonic.arl
 add +SuperSonic.ar.00
