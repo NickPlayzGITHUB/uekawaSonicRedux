@@ -1,3 +1,8 @@
+## Uekawa Sonic Redux 0.4
+- Added Config Menu for mod compatability (https://gamebanana.com/posts/12559726)
+- Added Portraits in the Status menu
+- Modified Werehog's model to improve fur clipping and blending
+
 ## Uekawa Sonic Redux 0.3 "Werehog Update"
 - Added Uekawa Styled Werehog (https://gamebanana.com/posts/12546624)
 - Changed Super Sonic's Pupil Colour (https://gamebanana.com/posts/12541360)

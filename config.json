@@ -1,0 +1,73 @@
+{
+	"Groups":[
+		{
+		"Name":"Main",
+		"DisplayName":"Configuration",
+		"Elements":
+			[
+
+				{
+					"Name":"IncludeDir1",
+					"DisplayName":"Uekawa Sonic",
+					"Description":[
+						"To help with mod compatability, you can choose who gets overwritten with the Uekawa mod. Don't want Sonic to have the Uekawa mod and want to use a different Sonic skin? Just disable it",
+					],
+					"Type":"sonicChoiceB1",
+					"MinValue":null,
+					"MaxValue":null,
+					"DefaultValue":"./USonic/Enabled/"
+				},
+
+                {
+					"Name":"IncludeDir2",
+					"DisplayName":"Uekawa Werehog",
+					"Description":[
+						"To help with mod compatability, you can choose who gets overwritten with the Uekawa mod. Don't want Sonic to have the Uekawa mod and want to use a different Sonic skin? Just disable it",
+					],
+					"Type":"sonicChoiceB2",
+					"MinValue":null,
+					"MaxValue":null,
+					"DefaultValue":"./UWerehog/Enabled/"
+				},
+			]
+		}
+	],
+	"Enums":{
+		"sonicChoiceB1":[
+			{
+				"DisplayName":"Enable",
+				"Value":"./USonic/Enabled/",
+				"Description":[
+					"",
+            ]
+			},
+			{
+				"DisplayName":"Disable",
+				"Value":"./USonic/Disabled/",
+				"Description":[
+					"",
+				]
+			},
+		],
+
+        "sonicChoiceB2":[
+			{
+				"DisplayName":"Enable",
+				"Value":"./UWerehog/Enabled/",
+				"Description":[
+					"",
+            ]
+			},
+			{
+				"DisplayName":"Disable",
+				"Value":"./UWerehog/Disabled/",
+				"Description":[
+					"",
+				]
+			},
+		],
+
+
+	},
+	"IniFile":"mod.ini"
+}
