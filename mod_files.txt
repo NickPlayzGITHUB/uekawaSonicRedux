@@ -14,3 +14,4 @@ add USonic/Enabled/Inspire/scene/+evrt_m8_11_3.arl
 add UWerehog/Enabled/+EvilSonic.ar.00
 add UWerehog/Enabled/+EvilSonic.ar.01
 add UWerehog/Enabled/+EvilSonic.arl
+remove +EvilSonic.arl
