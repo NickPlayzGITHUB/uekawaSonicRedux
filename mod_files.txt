@@ -14,4 +14,13 @@ add USonic/Enabled/Inspire/scene/+evrt_m8_11_3.arl
 add UWerehog/Enabled/+EvilSonic.ar.00
 add UWerehog/Enabled/+EvilSonic.ar.01
 add UWerehog/Enabled/+EvilSonic.arl
-remove +EvilSonic.arl
+delete +EvilSonic.arl
+delete +EvilSonic.ar.01
+delete +EvilSonic.ar.00
+delete +Sonic.arl
+delete +Sonic.ar.00
+delete Inspire/chara/SonicEVRoot.ar.00
+delete Inspire/chara/SonicEVRoot.ar.01
+delete Inspire/chara/SonicEVRoot.arl
+delete Inspire/scene/+evrt_m8_11_3.ar.00
+delete Inspire/scene/+evrt_m8_11_3.arl
