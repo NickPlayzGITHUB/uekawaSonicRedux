@@ -24,3 +24,5 @@ delete Inspire/chara/SonicEVRoot.ar.01
 delete Inspire/chara/SonicEVRoot.arl
 delete Inspire/scene/+evrt_m8_11_3.ar.00
 delete Inspire/scene/+evrt_m8_11_3.arl
+delete +SuperSonic.arl
+delete +SuperSonic.ar.00

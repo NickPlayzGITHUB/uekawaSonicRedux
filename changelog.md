@@ -1,4 +1,5 @@
 # Uekawa Sonic Redux 0.5
+## IMPORTANT BUGFIX
 - Fixed bug with the Update Server causing the 0.4 update to not work for those who downloaded the update from Hedge Mod Manager
 
 ## Uekawa Sonic Redux 0.4
