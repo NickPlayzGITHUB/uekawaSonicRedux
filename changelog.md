@@ -10,7 +10,7 @@
 
 ## Uekawa Sonic Redux 0.4
 - Added Config Menu for mod compatability (https://gamebanana.com/posts/12559726)
-- Added Config Menu for mod compatability
+- Added Portraits in status menu
 - Modified Werehog's model to improve fur clipping and blending
 
 ## Uekawa Sonic Redux 0.3 "Werehog Update"
