@@ -1,5 +1,11 @@
-# Uekawa Sonic Redux 0.5
-## IMPORTANT BUGFIX
+## Uekawa Sonic Redux 0.6
+- Improved Sonic's Outline Geometry
+- Improved Werehog's Outline Geometry
+- Added Shoe details to Sonic
+- Updated Sonic's matcaps for better shading
+- Improved Werehog fur clipping (again)
+
+## Uekawa Sonic Redux 0.5
 - Fixed bug with the Update Server causing the 0.4 update to not work for those who downloaded the update from Hedge Mod Manager
 
 ## Uekawa Sonic Redux 0.4
