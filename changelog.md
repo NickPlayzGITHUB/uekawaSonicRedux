@@ -1,3 +1,11 @@
+## Uekawa Sonic Redux 0.7
+- Sonic Channel Art Skin
+
+A New skin option is available! That being a Sonic Channel/Modern Yuji Uekawa inspired skin!
+This is a much more traditional cel-shaded skin compared to the Rush inspired colors. Less use of gradients and more solid colors. Unleashed has been kinda lacking in cel-shaded Sonic mods surprisingly, hopefully this helps fill that hole.
+
+Don't like it? All good, the Rush inspired look is still available in the mods config!
+
 ## Uekawa Sonic Redux 0.6
 - Improved Sonic's Outline Geometry
 - Improved Werehog's Outline Geometry
