@@ -3,6 +3,8 @@ add config.json
 add mod.ini
 add Global/+SystemCommonCore.ar.00
 add Global/+SystemCommonCore.arl
+add Global/+Sonic.arl
+add Global/+Sonic.ar.00
 add USonic/Rush/+Sonic.ar.00
 add USonic/Rush/+Sonic.ar.01
 add USonic/Rush/+Sonic.arl

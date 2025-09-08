@@ -5,7 +5,7 @@
             "DisplayName": "Configuration",
             "Elements": [
                 {
-                    "Name": "IncludeDir0",
+                    "Name": "IncludeDir1",
                     "DisplayName": "Uekawa Skin",
                     "Description": [
                         "Change the Uekawa style"

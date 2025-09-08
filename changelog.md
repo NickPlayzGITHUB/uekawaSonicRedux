@@ -1,3 +1,6 @@
+## Uekawa Sonic Redux 0.8
+- Modified Unleashed model has been replaced with a new Custom model
+
 ## Uekawa Sonic Redux 0.7
 - Sonic Channel Art Skin
 
